@@ -28,8 +28,8 @@
 </p>
 
 <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=VictorKabata&count_private=true&show_icons=true&theme=dark" alt="Gideon Rotich" width="420"/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorKabata&hide=html&langs_count=8&layout=compact&theme=dark" alt="Gideon rotich" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api?username=GideonRotich&count_private=true&show_icons=true&theme=dark" alt="Gideon Rotich" width="420"/> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GideonRotich&hide=html&langs_count=8&layout=compact&theme=dark" alt="Gideon rotich" height="165" />
  </p>
  
  ### Now Playing - Spotify 🎧
