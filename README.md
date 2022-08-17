@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Victor Kabata</h1>
+<h1 align="center">Hi there👋, I'm Gideon Rotich</h1>
 
 <h3 align="center">A Software developer.</h3>
 
@@ -8,13 +8,13 @@
   
 
  <p align="center"> 
- <a href="https://twitter.com/_victorkabata">
+ <a href="https://twitter.com/rotichgiddyk">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />    
   </a>&nbsp;&nbsp;
- <a href="https://www.linkedin.com/in/victor-kabata-047532173">
+ <a href="https://www.linkedin.com/in/gideon-rotich-3761a61b3">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="victorbro14@gmail.com">
+  <a href="giddyrotich433@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
  </p>
@@ -28,8 +28,8 @@
 </p>
 
 <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=VictorKabata&count_private=true&show_icons=true&theme=dark" alt="Victor Kabata" width="420"/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorKabata&hide=html&langs_count=8&layout=compact&theme=dark" alt="Victor Kabata" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api?username=VictorKabata&count_private=true&show_icons=true&theme=dark" alt="Gideon Rotich" width="420"/> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorKabata&hide=html&langs_count=8&layout=compact&theme=dark" alt="Gideon rotich" height="165" />
  </p>
  
  ### Now Playing - Spotify 🎧
