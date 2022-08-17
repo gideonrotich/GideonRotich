@@ -37,9 +37,9 @@
  </p>
  : my background is Agribusiness🎓 but learnt that I can be a developer without a CS degree 
  
- [![Sharon Jebitok's github stats](https://github-readme-stats.vercel.app/api?username=jebitok-dev&show_icons=true&theme=black)](https://github.com/jebitok-dev/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jebitok-dev&theme=dark)](https://git.io/streak-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jebitok-dev&show_icons=true&theme=black&layout=compact)](https://github.com/jebitok-dev/github-readme-stats)
+(https://github.com/jebitok-dev/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jebitok-dev&theme=dark)](https://git.io/streak-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jebitok-dev&show_icons=true&theme=black&layout=compact)](https://github.com/jebitok-dev/github-readme-stats)
 <!--
-**jebitok-dev/Jebitok-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
  
