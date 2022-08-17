@@ -35,7 +35,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=GideonRotich&count_private=true&show_icons=true&theme=dark" alt="Gideon Rotich" width="420"/> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GideonRotich&hide=html&langs_count=8&layout=compact&theme=dark" alt="Gideon rotich" height="165" />
  </p>
-  [![Sharon Jebitok's github stats](https://github-readme-stats.vercel.app/api?username=jebitok-dev&show_icons=true&theme=black)](https://github.com/jebitok-dev/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jebitok-dev&theme=dark)](https://git.io/streak-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jebitok-dev&show_icons=true&theme=black&layout=compact)](https://github.com/jebitok-dev/github-readme-stats)
+ [![Sharon Jebitok's github stats](https://github-readme-stats.vercel.app/api?username=jebitok-dev&show_icons=true&theme=black)](https://github.com/jebitok-dev/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jebitok-dev&theme=dark)](https://git.io/streak-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jebitok-dev&show_icons=true&theme=black&layout=compact)]
  
  ### Now Playing - Spotify 🎧
  
