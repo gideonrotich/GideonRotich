@@ -48,9 +48,10 @@ Here are some ideas to get you started:
  ### Now Playing - Spotify 🎧
  
 
-<p align="center"> <img src="https://github.com/Ericgacoki/Ericgacoki/blob/output/github-contribution-grid-snake.svg" alt="snake"></center></p>
+
  <p align="center">            
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=1p20tdscg7k4zx7fxnpvfpijg&redirect=true">
   <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=1p20tdscg7k4zx7fxnpvfpijg&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true"/>
 </a>
 </p>
+<p align="center"> <img src="https://github.com/Ericgacoki/Ericgacoki/blob/output/github-contribution-grid-snake.svg" alt="snake"></center></p>
