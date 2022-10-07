@@ -1,57 +1,30 @@
 <h1 align="center">Hi there👋, I'm Gideon Rotich</h1>
 
-<h3 align="center">A Software developer.</h3>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/GideonRotich/count.svg" />
+<h3 align="center">I write code to support my tech products addiction</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ndiritumichael" alt="ndiritumichael" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/ndiritu_michael" target="blank"><img src="https://img.shields.io/twitter/follow/ndiritu_michael?logo=twitter&style=for-the-badge" alt="ndiritu_michael" /></a> </p>
+
+- 🌱 I’m currently learning **Jetpack Compose,SwiftUI**
+
+- 💬 Ask me about **Android Mods and rooting,Android development,Go**
+
+- 📫 How to reach me **ndiritumichael5@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ndiritu_michael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ndiritu_michael" height="30" width="40" /></a>
 </p>
 
-- 👨🏾‍💻 Currently working on Java, Kotlin and Golang projects.
-- ✌🏾 Looking forward to collaborating with other Android developers or Golang group projects.
-- 📫 I'm available to answer your android related questions on any platform.
-  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
 
- <p align="center"> 
- <a href="https://twitter.com/rotichgiddyk">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />    
-  </a>&nbsp;&nbsp;
- <a href="https://www.linkedin.com/in/gideon-rotich-3761a61b3">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="giddyrotich433@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;&nbsp;
- </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ndiritumichael&show_icons=true&locale=en&layout=compact" alt="ndiritumichael" /></p>
 
- ### Languages
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ndiritumichael&show_icons=true&locale=en" alt="ndiritumichael" /></p>
 
- <p align="center">
-<img  src="https://img.shields.io/badge/Kotlin-8382E3?style=for-the-badge&logo=kotlin&logoColor=white">&nbsp;
-<img  src="https://img.shields.io/badge/Go-29BEB0?style=for-the-badge&logo=go&logoColor=white">&nbsp;
-<img  src="https://img.shields.io/badge/Java-E56F08?style=for-the-badge&logo=java&logoColor=white">&nbsp;
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ndiritumichael&" alt="ndiritumichael" /></p>
 
-<p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=GideonRotich&count_private=true&show_icons=true&theme=dark" alt="Gideon Rotich" width="420"/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GideonRotich&hide=html&langs_count=8&layout=compact&theme=dark" alt="Gideon rotich" height="165" />
-   
-
-
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GideonRotich&theme=dark)](https://git.io/streak-stats)
-  
-<!--
-</p>
-
-
-Here are some ideas to get you started:
- 
  ### Now Playing - Spotify 🎧
- 
-
-
- <p align="center">            
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=1p20tdscg7k4zx7fxnpvfpijg&redirect=true">
-  <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=1p20tdscg7k4zx7fxnpvfpijg&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true"/>
-</a>
-</p>
-<p align="center"> <img src="https://github.com/Ericgacoki/Ericgacoki/blob/output/github-contribution-grid-snake.svg" alt="snake"></center></p>
+[![Spotify](https://novatorem-jtfdwttq0-ndiritumichael.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
