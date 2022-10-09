@@ -26,6 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gideonrotich&show_icons=true&locale=en" alt="gideonrotich" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gideonrotich&" alt="gideonrotich" /></p>
-
- ### Now Playing - Spotify 🎧
-[![Spotify](https://novatorem-jtfdwttq0-ndiritumichael.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
