@@ -15,6 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rotichgiddyk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rotichgiddyk" height="30" width="40" /></a>
+<a href="https://developers.google.com/profile/u/Gideonrotich"><img src="https://img.icons8.com/color/50/google-logo.png" alt="google dev profile"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
