@@ -2,8 +2,6 @@
 
 <h3 align="center">I write code to support my tech products addiction</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gideonrotich" alt="gideonrotich" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/rotichgiddyk" target="blank"><img src="https://img.shields.io/twitter/follow/rotichgiddyk?logo=twitter&style=for-the-badge" alt="rotichgiddyk" /></a> </p>
 
 - 🌱 I’m currently learning **Jetpack Compose,SwiftUI**
