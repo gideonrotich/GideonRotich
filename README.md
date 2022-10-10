@@ -4,9 +4,9 @@
 
 <p align="center"> <a href="https://twitter.com/rotichgiddyk" target="blank"><img src="https://img.shields.io/twitter/follow/rotichgiddyk?logo=twitter&style=for-the-badge" alt="rotichgiddyk" /></a> </p>
 
-- 🌱 I’m currently learning **Jetpack Compose,SwiftUI**
+- 🌱 I’m currently learning **Jetpack Compose,Kotlin Multiplatform**
 
-- 💬 Ask me about **Android Mods and rooting,Android development,Go**
+- 💬 Ask me about **Clean Architecture and Modularization,Coroutines,Flow**
 
 - 📫 How to reach me **giddyrotich433@gmail.com**
 
