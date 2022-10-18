@@ -16,6 +16,7 @@
 <p align="left">
 <a href="https://twitter.com/rotichgiddyk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rotichgiddyk" height="50" width="50" /></a>
 <a href="https://developers.google.com/profile/u/Gideonrotich"><img align="center" src="https://img.icons8.com/color/50/google-logo.png" alt="google dev profile" height="50" width="50"/></a>
+<a href="https://linkedin.com/in/alphaomondi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alphaomondi" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
