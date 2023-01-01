@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, I'm Gideon Rotich</h1>
 
-<h3 align="center">I write code to support my tech products addiction</h3>
+<h3 align="center">I write code to support my tech products addiction </h3>
 
 <p align="center"> <a href="https://twitter.com/rotichgiddyk" target="blank"><img src="https://img.shields.io/twitter/follow/rotichgiddyk?logo=twitter&style=for-the-badge" alt="rotichgiddyk" /></a> </p>
 
