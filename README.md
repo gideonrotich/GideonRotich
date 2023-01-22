@@ -1,7 +1,5 @@
 <h1 align="center">Hi there👋, I'm Gideon Rotich</h1>
 
-<h3 align="center">I write code to support my tech products addiction </h3>
-
 - 🌱 I’m currently learning **Jetpack Compose,Kotlin Multiplatform**
 
 - 💬 Ask me about **Clean Architecture and Modularization,Coroutines, Flow**
