@@ -2,8 +2,6 @@
 
 <h3 align="center">I write code to support my tech products addiction </h3>
 
-<p align="center"> <a href="https://twitter.com/rotichgiddyk" target="blank"><img src="https://img.shields.io/twitter/follow/rotichgiddyk?logo=twitter&style=for-the-badge" alt="rotichgiddyk" /></a> </p>
-
 - 🌱 I’m currently learning **Jetpack Compose,Kotlin Multiplatform**
 
 - 💬 Ask me about **Clean Architecture and Modularization,Coroutines, Flow**
