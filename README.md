@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Jetpack Compose,Kotlin Multiplatform**
 
-- 💬 Ask me about **Clean Architecture and Modularization,Coroutines, Flow**
+- 💬 Ask me about **Clean Architecture and Modularization,Coroutines,Flow**
 
 - 📫 How to reach me **giddyrotich433@gmail.com**
 
